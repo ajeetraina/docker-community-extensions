@@ -55,7 +55,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [docker/disk-usage-extension](https://hub.docker.com/r/docker/disk-usage-extension) - View disk space used by Docker and what it's used for. Reclaim disk space in one click ![Docker Pulls](https://img.shields.io/docker/pulls/docker/disk-usage-extension) <br>
 
 
-[Try it on Docker Desktop <img src="open_in_new.svg" alt="Open in Docker Desktop" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/apache-php)
+[Try it on Docker Desktop <img src="open_in_new.svg" alt="Open in Docker Desktop" align="top"/>](https://open.docker.com/dashboard/docker-extensions?url=https://github.com/docker/docker/disk-usage-extensions)
 
 
 [rumpl/docker-extension-golang-playground](https://github.com/rumpl/docker-extension-golang-playground) - Golang playground in Docker Desktop ![Github Stars](https://img.shields.io/github/stars/rumpl/docker-extension-golang-playground)<br>
